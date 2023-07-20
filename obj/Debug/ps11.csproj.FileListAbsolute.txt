@@ -1,0 +1,8 @@
+D:\ps\ps11\ps11\obj\Debug\ps11.csproj.AssemblyReference.cache
+D:\ps\ps11\ps11\obj\Debug\ps11.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps11\ps11\obj\Debug\ps11.csproj.CoreCompileInputs.cache
+D:\ps\ps11\ps11\bin\Debug\ps11.exe.config
+D:\ps\ps11\ps11\bin\Debug\ps11.exe
+D:\ps\ps11\ps11\bin\Debug\ps11.pdb
+D:\ps\ps11\ps11\obj\Debug\ps11.exe
+D:\ps\ps11\ps11\obj\Debug\ps11.pdb
